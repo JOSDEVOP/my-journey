@@ -4,16 +4,16 @@
 # https://www.geeksforgeeks.org/linux-commands-cheat-sheet/ using this link to get cheat codes
 
 # Linux Cheat Sheet for DevOps Engineers
-# linux command
+
 This cheat sheet includes essential Linux commands and concepts commonly used in the DevOps workflow:
 
-File System Navigation:
+# File System Navigation:
 
-pwd: Print the current working directory.
-ls: List files and directories in the current directory.
-ls -l: List files and directories in long format.
-ls -a: List all files and directories, including hidden ones.
-cd: Change the current directory.
+# pwd: Print the current working directory.
+# ls: List files and directories in the current directory.
+# ls -l: List files and directories in long format.
+# ls -a: List all files and directories, including hidden ones.
+# cd: Change the current directory.
 cd ~: Change to the home directory.
 cd ..: Move up one directory level.
 touch: Create an empty file.
