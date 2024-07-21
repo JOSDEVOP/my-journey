@@ -13,6 +13,9 @@ To create an alias, use the `alias` command followed by the name of the alias an
 ```sh
 alias alias_name='command'
 ```
+  ```
+its good 
+```
 
 ### Example
 ```sh
