@@ -14,8 +14,8 @@ To create an alias, use the `alias` command followed by the name of the alias an
 alias alias_name='command'
 ```
 
-##good
-  ```my new
+##goo
+```my new
 its good 
 ```
 
