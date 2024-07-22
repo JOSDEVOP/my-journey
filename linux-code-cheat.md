@@ -14,7 +14,7 @@ To create an alias, use the `alias` command followed by the name of the alias an
 alias alias_name='command'
 ```
 
-### Syntax
+### Synx
 ```git
 alias alias_name='command'
 ```
