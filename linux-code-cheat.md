@@ -15,7 +15,7 @@ alias alias_name='command'
 ```
 
 ### goo
-```git
+```markdown
 git branch
 ```
 
