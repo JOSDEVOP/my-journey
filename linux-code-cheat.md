@@ -16,7 +16,7 @@ alias alias_name='command'
 
 ### goo
 ```sh
-its good 
+alias
 ```
 
 ### Example
