@@ -15,7 +15,7 @@ alias alias_name='command'
 ```
 
 ## goo
-```my
+```sh
 its good 
 ```
 
