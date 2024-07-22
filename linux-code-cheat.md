@@ -15,8 +15,8 @@ alias alias_name='command'
 ```
 
 ### Syntax
-```markdown
-git branch
+```git
+alias alias_name='command'
 ```
 
 ### Example
