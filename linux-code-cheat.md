@@ -15,8 +15,8 @@ alias alias_name='command'
 ```
 
 ### goo
-```sh
-alias
+```git
+git branch
 ```
 
 ### Example
