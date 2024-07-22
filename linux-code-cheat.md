@@ -10,7 +10,7 @@ Aliases in Linux allow you to create shortcuts for long or complex commands, mak
 To create an alias, use the `alias` command followed by the name of the alias and the command you want it to represent.
 
 ### Syntax
-```sh
+```git
 alias alias_name='command'
 ```
 
