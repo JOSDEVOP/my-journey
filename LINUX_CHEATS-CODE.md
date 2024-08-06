@@ -29,7 +29,12 @@ more or less: View file content page by page.
 head and tail: Display the beginning or end of a file.
 file: Determine file type.
 File Permissions:
-
+usermod -aG groupname usernamen: we use this code to add a user to a particular group. exampleis usermod -aG sudo john ,this would add the user john to the sudo group.
+we can type groups or id to showcase the groups a user belongs
+useradd [-m this option creats  a home directory for the new user we are going to add   ] name of the username .eg useradd -m john or useradd  john
+$passwd john allows us to create a password for john.
+passwd username
+userdel -rf username removes the user 
 chmod: Change file permissions.
 chown: Change file ownership.
 chgrp: Change group ownership.
